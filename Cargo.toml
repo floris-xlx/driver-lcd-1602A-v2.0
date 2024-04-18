@@ -1,0 +1,11 @@
+[package]
+name = "driver-lcd-1602a-v2_0"
+version = "0.1.0"
+edition = "2021"
+authors = ["Floris floris@xylex.ai"]
+description = "Rust driver for the 1602A V2.0 LCD display"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+
