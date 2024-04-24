@@ -8,4 +8,6 @@ license = "MIT"
 readme = "README.md"
 
 [dependencies]
+hd44780-driver = "0.4.0"
+rppal = "0.17.1"
 
